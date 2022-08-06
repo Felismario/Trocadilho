@@ -1,6 +1,470 @@
 [
-    {
-        "question": "Qual a profissão que aborrece?",
-        "answer": "A de amolador."
+    {"question": "Qual a profissão que aborrece?","answer": "A de amolador."
+    },
+    {"question":"Qual o nome do dono do cemitério?","answer":"Seu Pultura."
+    },
+    {"question":"Qual o nome do dono do Correios?","answer":"Seu Dex dez."
+    },
+    {"question":"Qual o nome do dono do banco?","answer":"Seu Tander."
+    },
+    {"question":"Qual banda de rock não passa na segurança do aeroporto?","answer":"Metallica."
+    },
+    {"question":"Qual a banda que é formada por profissionais que viviam fazendo doações? ","answer":"Engenheiros doava aí."
+    },
+    {"question":"Qual cantora espirra muito?","answer":"ATina Tuner."
+    },
+    {"question":"Qual o cantor fica bonito quando se traveste?","answer":"Bonito de Paula."
+    },
+    {"question":"Qual o estilo musical que os jardineiros mais escutam?","answer":"Reggae."
+    },
+    {"question":"Qual o estilo musical que os pediatras mais escutam?","answer":"Chorinho."
+    },
+    {"question":"Qual o estilo musical que os psicólogos mais escutam?","answer":"Sofrência"
+    },
+    {"question":"Qual o estilo musical que os pastores mais escutam?","answer":"Pa God."
+    },
+    {"question":"Quer ouvir uma dica de etiqueta?","answer":"Não lavar com água sanitária."
+    },
+    {"question":"Qual o pastor que nasceu em abril?","answer":"O RR sou Aires.","answer":" ","answer":"Qual música é um dueto entre Freddie Mercury e a Maria Betânia?","answer":"Queen me chamou..."
+    },
+    {"question":"Qual a banda que reza no frio?","answer":"Cold Pray."
+    },
+    {"question":"Qual animal diz que está parecendo uma fruta?","answer":"Tô pera."
+    },
+    {"question":"Qual vegetal se manifesta quando batem na porta?","answer":"Eu quiabo."
+    },
+    {"question":"Como a CIA faz para prender os bandidos nos EUA?","answer":"Errando. Porque é errando que Cia prende."
+    },
+    {"question":"Qual personagem do cinema solta peido de dois em dois?","answer":"O gás parzinho."
+    },
+    {"question":"Sabia que o Reginaldo foi vítima de extorsão, roubaram seu RG?","answer":"Ele agora ele se chama Einaldo."
+    },
+    {"question":"Porque os religiosos não vão a show de comédia?","answer":"Porque preferem a graça de Deus."
+    },
+    {"question":"Posso falar de algo muito denso?","answer":"Estrela de nêutrons."
+    },
+    {"question":"Os estacionamentos para carros estão cada vez mais apertados. Só vaguinhas. E você já viu os estacionamentos para trens?","answer":"Só tem vagão."
+    },
+    {"question":"Qual a comida favorita dos detetives?","answer":"Escondidinho."
+    },
+    {"question":"Sabe o que aconteceu com o dono do circo que comprou uma gráfica superfaturada?","answer":"Ele fez papel de palhaço."
+    },
+    {"question":"Sebe qual é nome do filho do Renato Russo?","answer":"Meu filho Walter Gomes dos Santos... Quero um nome mais bonito!"
+    },
+    {"question":"Sabia que a rainha Elizabeth condecorou o guarda que limpou sua boca em momento difícil?","answer":"Foi o Guarda Napo."
+    },
+    {"question":"Por que os empresários evitam comprar espelhos?","answer":"Para não ver os reflexos da economia"
+    },
+    {"question":"Como o Alexandre Pires sopra a vela do bolo na festa de aniversário?","answer":"Sopra contrariado."
+    },
+    {"question":"Qual o novo programa da madrugada da Rede TV?","answer":"A Insônia Abrão."
+    },
+    {"question":"Para qual cidade do RJ os palhaços se mudaram porque estavam doentes?","answer":"Parati pra tratar."
+    },
+    {"question":"Qual o circo que tem biblioteca?","answer":"O circo de só ler."
+    },
+    {"question":"Porque os domadores se mudaram para o litoral?","answer":"Porque queriam ir para o nível domar."
+    },
+    {"question":"Soube da tempestade com ciclone?","answer":"Derrubou um convento."
+    },
+    {"question":"Viu que a última pesquisa do IBGE tinha muita pergunta indiscreta?","answer":"Eles prometem bom Censo na próxima."
+    },
+    {"question":"Soube que houve uma briga política em Criciúma?","answer":"A população ficou dividida ao meio e a cidade vai se chamar de Criciduas."
+    },
+    {"question":"Qual a tecla mais usada pelos astronautas? ","answer":"O espaço."
+    },
+    {"question":"Qual o filme que deixaram bens como garantia?","answer":"Penhor dos anéis"
+    },
+    {"question":"Qual o filme do garoto que perdeu os dois pés?","answer":"O pestinha"
+    },
+    {"question":"Qual a novela que soma 4 + 3?","answer":"A Novela dá 7."
+    },
+    {"question":"Por que o Silvio Santos não consegue mais entrar no SBT?","answer":"Porque perdeu Chaves."
+    },
+    {"question":"Soube da vaca que era intolerante a erros de português?","answer":"Morreu depois de ingerir quinhentas gramas."
+    },
+    {"question":"Como o Aladdin ganhou a Jasmine?","answer":"No tapetão."
+    },
+    {"question":"De quem era os 5kg de cocaína que a polícia prendeu na escola de samba?","answer":"Do Puxador."
+    },
+    {"question":"Qual o novo desenho da Disney com temas de arte?","answer":"O Mickeylângelo. Que ensina arte Minniemalista."
+    },
+    {"question":"Qual a doença rara que faz a pessoa chorar toda vez que solta pum?","answer":"Gás triste."
+    },
+    {"question":"Qual o animal que emagreceu e está com 999 gramas? ","answer":"O Ex quilo"
+    },
+    {"question":"Sabe o que aconteceria se a Academia Brasileira de Letras se organizar um pouco mais?","answer":"Vira a Academia Brasileira de Palavras."
+    },
+    {"question":"O que a Barbie respondeu quando perguntaram com quem ela iria se casar?","answer":"Com Ken será!"
+    },
+    {"question":"Por que a Polícia Federal prendeu um indivíduo no restaurante?","answer":"Estava comendo um PF."
+    },
+    {"question":"Qual a dupla sertaneja que gosta de tomar sorvete no inverno?","answer":"A Sundae em Junho.","answer":"Porque o Faustão só ajuda o filho até os 29 anos?","answer":"Porque ele se vira nos 30."
+    },
+    {"question":"Sabia que o Spotify fez uma versão em que as sogras podem montar uma playlist para esposa dos seus filhos?","answer":"É playlist da trilha só nora."
+    },
+    {"question":"O que aconteceria se o time do São Paulo fosse investir no tênis?"
+    },
+    {"question":"Teria só um jogador e precisaria mudar de nome para: É Paulo."
+    },
+    {"question":"Por que o cara que perdeu o paladar com a comida do boteco?","answer":"Porque ele comeu um tira gosto."
+    },
+    {"question":"Qual o filme que é um grande sucesso na China?","answer":"Como cães e gatos."
+    },
+    {"question":"","answer":"Por que uma competidora foi expulsa do torneio de damas.","answer":"Porque ela estava com muita grosseria."
+    },
+    {"question":"Soube de uma ação social que terminou em casamento?","answer":"O morador de rua se apaixonou por uma voluntária que estava dando sopa."
+    },
+    {"question":"Qual o sindicato que não admite nenhuma regra?","answer":"O sindicato dos contra regras."
+    },
+    {"question":"Porque a Jequiti foi investigada depois de fazer a divulgação de um novo produto?","answer":"Porque a polícia suspeitou de lança perfume."
+    },
+    {"question":"Porque os vendedores tem mais dificuldade de observar os clientes?","answer":"Porque trabalham com vendas."
+    },
+    {"question":"Porque o Antônio Banderas nunca ganhou um Emmy?","answer":"Porque se ganhar ele vira Mantonio Banderas."
+    },
+    {"question":"Sabe como se chamava a atriz Meryl Streep antes de ganhar um Emmy?","answer":"Eryl Streep."
+    },
+    {"question":"Qual a bebida que te faz ouvir sinos?","answer":"Gin Go Bell."
+    },
+    {"question":"Sabia que a primeira epidemia no Brasil foi trazida por Dom Pedro I?","answer":"Ele trouxe o Vírus do Ipiranga."
+    },
+    {"question":"Porque o corpo de bombeiros estava sendo investigado depois de crescer muito?","answer":"Poque a polícia suspeita de estarem usando anabolizante?"
+    },
+    {"question":"Porque não devemos escutar qualquer conselho de economia vindo de uma múmia?","answer":"Desconfie. É pirâmide."
+    },
+    {"question":"O que é necessário para curar a ansiedade?","answer":"Que sua tenha pia pois, para curar ansiedade é necessário ter a pia."
+    },
+    {"question":"Soube do papo do casal de alhos?","answer":"A alha liga para o alho e pergunta: Você tá no bar alho? Tô alha!"
+    },
+    {"question":"Como será o anúncio que a banda Restart fará se resolver voltar a cantar?","answer":"Irá anunciar: Estamos reiniciando!"
+    },
+    {"question":"Qual o suplemento para quem espera ganhar músculo? ","answer":"Wait protein."
+    },
+    {"question":"Qual o ator de Hollywood que tem todas as cartas no baralho?","answer":"O Wesley e os naipes."
+    },
+    {"question":"Sabe quem não tem avós?","answer":"Órfãos mudos."
+    },
+    {"question":"Qual o tom mais usado pela Cinderela quando canta?","answer":"O fá da madrinha."
+    },
+    {"question":"O que aconteceu com o dono da fábrica de ferro elétrico que sofreu um acidente?","answer":"Se recuperou e já está passando bem."
+    },
+    {"question":"Qual o nome do filme que o motorista foi expulso da Uber? ","answer":"A culpa é das estrelas."
+    },
+    {"question":"Por que o fanho nunca comemorou o dia dos pais?","answer":"Ele só comemora o dia dos pães."
+    },
+    {"question":"Porque o eletricista ficou em estado de choque?","answer":"Porque ele descobriu que a tomada estava funcionando."
+    },
+    {"question":"Qual o Bis que tem gosto de pão?","answer":"O Bis naguinha."
+    },
+    {"question":"Porque a pesquisa sobre jogos de tabuleiros foi interrompida?","answer":"Por falta de dados."
+    },
+    {"question":"O que acontecerá com o Samuel Rosa com o fim da banda?","answer":"Ele será um ex kank."
+    },
+    {"question":"Sabe o que o César Cielo faz em casa na pandemia?","answer":"Nada."
+    },
+    {"question":"Qual cantor de rock tem uma peça de avião?","answer":"Alice Cooper"
+    },
+    {"question":"Por que o Bruce Dickinson tem vantagem por ser piloto?","answer":"É que ele pode escolher a hora que a banda vai tocar o solo."
+    },
+    {"question":"O que aconteceu quando eu pedi para inverterem o pedido na pastelaria?","answer":"Me trouxeram um Castel de Parne."
+    },
+    {"question":"Como se chamará a Bíblia se for premiada mais uma vez pelo Vaticano?","answer":"Vai se chamar Tríblia?"
+    },
+    {"question":"Qual o chocolate para quem tem problema de memória? ","answer":"Lá que tá."
+    },
+    {"question":"O que aconteceria se o Rio Grande do Sul pensasse mais no futuro?","answer":"Se chamaria Rirei Grande do Sul."
+    },
+    {"question":"Porque o Papa não pode fazer harmonização facial?","answer":"Para não perder o papado."
+    },
+    {"question":"Por que no curso de jornalismo ensinam educação física com aulas de vôlei?","answer":"Para ensinar a dar grandes manchetes."
+    },
+    {"question":"Qual o santo padroeiro dos gordinhos?","answer":"São do lxi"
+    },
+    {"question":"Luan Santana é o cantor mais Influente. E qual a dupla mais Afluente?","answer":"Rio Negro e Solimões."
+    },
+    {"question":"Porque os seguidores de Jesus gostavam uns dos outros?","answer":"Porque os apóstolos se atraem."
+    },
+    {"question":"O que o morto usa para colorir?","answer":"Lápide cor."
+    },
+    {"question":"Qual o alimento matinal ensina a cantar?","answer":"Nesse tom."
+    },
+    {"question":"Porque os peixes evitam conflitos?","answer":"Porque já têm guelras demais."
+    },
+    {"question":"Qual o lugar no mundo que incentiva a caminhada?","answer":"Cordilheira dos Andes."
+    },
+    {"question":"Qual o apresentador que mede as palavras?","answer":"O Datrena."
+    },
+    {"question":"O que o marciano foi fazer em São Paulo?","answer":"Visitar o Tio ET."
+    },
+    {"question":"Porque o jardineiro nunca briga com a planta?","answer":"Porque ele sempre a rega."
+    },
+    {"question":"Qual o inseto que tem mais de 3 olhos e menos de 4 olhos?","answer":"O pi olho."
+    },
+    {"question":"Qual inseto toma muito chá?","answer":"O Mari boldo."
+    },
+    {"question":"Qual o Deus grego que não tem talento para ser Deus?","answer":"Pô sem dom."
+    },
+    {"question":"Qual personagem de vídeo game não nega nada a ninguém?","answer":"O Dá o sim."
+    },
+    {"question":"Qual o ingrediente que sempre chega atrasado na geladeira nos EUA?","answer":"O late"
+    },
+    {"question":"Qual a cantora brasileira que chega sempre atrasada nos EUA?","answer":"A Cláudia Late."
+    },
+    {"question":"Qual nome se dá a uma amostra grátis de agrotóxico?","answer":"Peste drive."
+    },
+    {"question":"Qual jogo do Windows só funciona se fizer tudo que ele quer?","answer":"O campo mimado."
+    },
+    {"question":"O que acontece se uma empregada doméstica perder o emprego?","answer":"Ela passará a ser uma desapegada doméstica?"
+    },
+    {"question":"Porque o Ibama prendeu o australiano no Ceará?","answer":"Porque ele estava em Jeri com a coala."
+    },
+    {"question":"O que o Tarzan fez quando se mudou para a cidade?","answer":"Ele comprou um apartamento na planta."
+    },
+    {"question":"O que a mamãe açaí disse para os filhos?","answer":"O último açaí fecha a porta."
+    },
+    {"question":"O que o Pikachu abandonado estava fazendo no posto de gasolina?","answer":"Esperando que Ash back."
+    },
+    {"question":"O que o hipopótamo fez com a casa dele?","answer":"Hipopotecou."
+    },
+    {"question":"Qual o professor que consegue falar com o planeta inteiro?","answer":"O professor Hi Mundo!"
+    },
+    {"question":"Qual o apresentador que paga as suas dívidas em agosto?","answer":"Oitavo mês quita."
+    },
+    {"question":"Qual a atriz que é fã do Sérgio Malandro mas não fala Glu Glu nem ié ié?","answer":"A Renata Só Rá!"
+    },
+    {"question":"Qual a atriz que só cumprimenta em inglês?","answer":"Renata só Hi."
+    },
+    {"question":"Porque muita gente quer vender para os albinos?","answer":"Porque é o público Alvo."
+    },
+    {"question":"Porque o jardineiro japonês está com um monte de vaso ruim no estoque?","answer":"Porque só bom sai."
+    },
+    {"question":"Qual o material bélico mais carente?","answer":"O miss you"
+    },
+    {"question":"O que o ladrão de bancos faz entre uma palestra e outra?","answer":"Cofre break."
+    },
+    {"question":"Qual o carro que vale mil curtidas?","answer":"1k de like."
+    },
+    {"question":"Qual o carro que é médico?","answer":"Citroen Xsara"
+    },
+    {"question":"Qual o carro que é Urologista?","answer":"Citroen Xsara Picasso"
+    },
+    {"question":"Sabe o que todo peixe que nasce no fundo do oceano entre os meses de janeiro e fevereiro é?","answer":"Um peixe de Aquário?"
+    },
+    {"question":"Qual o hino que todo presidiário gostaria de cantar?","answer":"O inocente."
+    },
+    {"question":"Qual o peixe que te dá um título de nobreza?","answer":"Tu barão"
+    },
+    {"question":"Qual a fruta que te bate?","answer":"Fru Tapão."
+    },
+    {"question":"Porque o bolo nunca sabe de nada?","answer":"Porque ele está desinformado."
+    },
+    {"question":"Qual o nome do filho do MC Kevinho?","answer":"MC quer suco."
+    },
+    {"question":"Porque a mulher do comediante sempre ri de comercial de remédio?","answer":"Porque o ministério da saúde a diverte."
+    },
+    {"question":"Como é o nome do cara que rouba fotos comprometedoras dos ricos para dar aos pobres?","answer":"Robin Nudes"
+    },
+    {"question":"Porque os misóginos usam roupas amarrotadas?","answer":"Porque machistas não passarão."
+    },
+    {"question":"Qual o grupo musical preferido do leão?","answer":"Rouge"
+    },
+    {"question":"Qual o cantor brasileiro está nos filmes da Marvel:","answer":"Cae Tanos."
+    },
+    {"question":"Qual o cantor que só dá mancada?","answer":"Jorge Vacilo."
+    },
+    {"question":"Qual o ator americano preferido do Thor?","answer":"Odin Carrey."
+    },
+    {"question":"Qual o médico que trabalha dentro de casa?","answer":"O lndor crinologista."
+    },
+    {"question":"Qual o sentimento mais frequente em um coveiro?","answer":"Pá e chão"
+    },
+    {"question":"Qual a rede social para as crianças buscarem emprego?","answer":"O Brin quedim."
+    },
+    {"question":"Qual o eletrodoméstico que serve para misturar currículos?","answer":"Linkedificador"
+    },
+    {"question":"Qual é a fruta mais gente boa que existe?","answer":"A uva parça."
+    },
+    {"question":"Qual é o nome de uma ferramenta perdida?","answer":"Foice","answer":"Qual a cidade na Europa que quando chove molha os bêbados?","answer":"Bar-sem-lona"
+    },
+    {"question":"Qual o animal que mais gosta de cantar em grupo?","answer":"A cobra-coral","answer":"Quantos graus tem uma onça morta?","answer":"360 graus, porque ela é uma ex-fera."
+    },
+    {"question":"Qual o documento que o Thor usa para provar que ele é ele mesmo?","answer":"O título de ele é Thor"
+    },
+    {"question":"Como é o café do cavalo?","answer":"Com pouco pó, pouco pó, pouco po..."
+    },
+    {"question":"Qual o carro que acabou de sair do forno?","answer":"O Kia soul"
+    },
+    {"question":"Qual é aquela série de policiais que todo mundo que é policial tem que sair?","answer":"Se é sai"
+    },
+    {"question":"Porque o policial comprou uma impressora industrial?","answer":"Pra fazer revista."
+    },
+    {"question":"Porque no dia de eleição muita gente perde o avô?","answer":"Sempre tem alguém perguntando: Onde vou votar? Onde vou votar?"
+    },
+    {"question":"Qual o cantor que morreu no hospital?","answer":"O Soro acaba."
+    },
+    {"question":"Qual o animal que aponta a merda que você fez?","answer":"A cacatua"
+    },
+    {"question":"Porque a vassoura ficava se exibindo na estrada?","answer":"Porque rodo via."
+    },
+    {"question":"Qual a comida favorita dos maconheiros?","answer":"Os alimentos de fumados"
+    },
+    {"question":"Qual o cantor preferido dos bezerros?","answer":"O Boy jovem"
+    },
+    {"question":"Qual figura histórica cuidava da beleza de idosos?","answer":"O Maquia velho"
+    },
+    {"question":"Qual a rebelião no Brasil que foi feita por pessoas burras?","answer":"Sabe nada"
+    },
+    {"question":"E a rebelião que fabricava roupas para bebês?","answer":"Farroupinhas"
+    },
+    {"question":"Qual o queijo que a gente deve experimentar sozinho?","answer":"O prova alone"
+    },
+    {"question":"Qual o queijo que não dá para comer em mesa pequena?","answer":"O Pra mesão"
+    },
+    {"question":"Qual é o pó que faz as pessoas se converterem?","answer":"O Pode crer"
+    },
+    {"question":"Qual o animal que não consegue voar mas é fera na aterrisagem?","answer":"A Rapousa"
+    },
+    {"question":"Qual o nome do americano que ficou pequeno?","answer":"O Jimmy Noweel."
+    },
+    {"question":"Quem é o protetor dos fedidos e mal cheirosos?","answer":"O Deusodorante."
+    },
+    {"question":"Qual o vocalista que sabe tudo sobre planilhas?","answer":"O ExcelRose."
+    },
+    {"question":"Qual a atriz mais inspiradora?","answer":"A Narina Rui Barbosa."
+    },
+    {"question":"Qual o cantor favorito da vovó?","answer":"O Netinho."
+    },
+    {"question":"E qual o nome da avó do Netinho de Paula?","answer":"Paula."
+    },
+    {"question":"Qual a banda que foi feita pelas costureiras?","answer":"Babado novo."
+    },
+    {"question":"Qual o super herói que sempre quer mais e mais?","answer":"O Muitoquero fantasma."
+    },
+    {"question":"Qual cavaleiro da literatura participava de leilões?","answer":"Lance em lote"
+    },
+    {"question":"Qual o nome do filme que o príncipe Charles diz que a rainha Elizabeth é do xadrez?","answer":"Minha mãe é uma peça."
+    },
+    {"question":"Qual o biscoito preferido do filho da fazendeira?","answer":"Biscoito a mãe tem Gado"
+    },
+    {"question":"O ganso chama sua esposa para aprender o alfabeto, qual o nome do filme?","answer":"V de vem gansa"
+    },
+    {"question":"Qual é o cavalo que gosta de limpeza?","answer":"Pé de pano"
+    },
+    {"question":"O que é que todo fotógrafo inglês faz todo dia às 5h da tarde?","answer":"Chá de revelação."
+    },
+    {"question":"Qual o ingrediente que tem na comida de quem apanhou?","answer":"O Rep olho roxo"
+    },
+    {"question":"Qual parte da calça não fica quieta?","answer":"O zíper ativo"
+    },
+    {"question":"Qual a cantora que perdeu a virgindade?","answer":"Nana cai hímen"
+    },
+    {"question":"O continente que não está se sentindo bem. O que ele tem?","answer":"Asia. Ou Incontinência."
+    },
+    {"question":"Qual o melhor lugar para pedir informações sobre prostitutas?","answer":"Na Zona franca. Ou no posto lpiranha."
+    },
+    {"question":"Como se acorda um músico?","answer":"Com Acorde."
+    },
+    {"question":"Qual o cantor que gosta de chocolate?","answer":"Osvaldo diamante negro"
+    },
+    {"question":"Qual o doce mais cansado?","answer":"Suspiro"
+    },
+    {"question":"O índio foi acusado de ter roubado um chinelo, o cacique começou a bater nele e falar: confessa! Confessa! Qual o nome do filme?","answer":"Eu robô"
+    },
+    {"question":"A velhinha ouve barulhos no quarto do seu neto e vai conferir.","answer":"Meu netinho porque você tá jogando tudo pela janeeeeeeeeeeela?"
+    },
+    {"question":"Qual o alimento que fica fazendo propaganda no café da manhã?","answer":"O pão fleto."
+    },
+    {"question":"Quantos franceses precisam para calcular uma circunferência?","answer":"2 pierre"
+    },
+    {"question":"Quantos moleques precisam para calcular uma circunferência?","answer":"2 pirraios"
+    },
+    {"question":"Qual o país que está sempre indignado?","answer":"O Aff ganistão"
+    },
+    {"question":"Porque o carro do dentista foi aprendido?","answer":"Porque estava sem placa."
+    },
+    {"question":"De quem é a Disney?","answer":"Do pato. Pato dono da Disney."
+    },
+    {"question":"O que os patos mais estudam na matemática?","answer":"É QUA ções."
+    },
+    {"question":"Qual o herói da literatura internacional que atirava em patos?","answer":"Duck shot."
+    },
+    {"question":"Uma mulher e entrou numa casa e as paredes tossiram, imediatamente ela teve diarreia. Qual a doença dela?","answer":"Intolerância a lar que tosse."
+    },
+    {"question":"Qual é a música que só usa uma vogal?","answer":"Only Uuuuu"
+    },
+    {"question":"Como a mulher maravilha pede o prato dela no restaurante?","answer":"Um bife pra mim Diana"
+    },
+    {"question":"Quem sempre erra ao tentar ler minha mão?","answer":"A Cin gana"
+    },
+    {"question":"Por que devemos abraçar um sapato quando estivermos triste?","answer":"Porque o sapato com sola."
+    },
+    {"question":"Qual o filme dos marcianos que sobreviveram ao tsunami?","answer":"O mar te ataca."
+    },
+    {"question":"Qual cantora brasileira tem 101 cachorros?","answer":"Vanessa Dálmata."
+    },
+    {"question":"O que acontece se você alfabetizar um cachorro quente?","answer":"O hot vai ler"
+    },
+    {"question":"Qual a profissão mais cansativa do mundo?","answer":"Pizzaiaolo. Porque sempre estão com a mão na massa."
+    },
+    {"question":"Qual é a competição que teve a disputa entre G1 e R7?","answer":"A competição de futebol só site."
+    },
+    {"question":"Qual o jogo da Microsoft que só tem as versões 1 3 5 7 e 9?","answer":"O age of ímpares"
+    },
+    {"question":"Porque os filhos do canguru recebiam auxílio financeiro para estudar?","answer":"Porque são todos bolsistas."
+    },
+    {"question":"Qual a profissão que desenha antigas apresentadoras de programas de TV?","answer":"O Hebe design"
+    },
+    {"question":"Qual o coletivo de capivara?","answer":"Capivárias."
+    },
+    {"question":"Porque o jogo de futebol de campo começa sempre no horário?","answer":"Porque é um jogo pro gramado"
+    },
+    {"question":"Quais são os países mais devagar?","answer":"A Slow vaquia, a Slow vênia e Lentonia."
+    },
+    {"question":"Qual o melhor feriado para as pessoas que tem língua presa se reunirem para tomar refrigerante?","answer":"Festa Feira Fanta"
+    },
+    {"question":"O que minha mãe me deu quando eu não devolvi os potes dela?","answer":"Tapa ué."
+    },
+    {"question":"Qual o doce que se for líquido vem em grandes quantidades?","answer":"Pirulitros."
+    },
+    {"question":"Qual escritor brasileiro não gosta da Páscoa?","answer":"Pau no Coelho!"
+    },
+    {"question":"Qual o país que só tem coisas sem utilidade?","answer":"As tralhas"
+    },
+    {"question":"Qual o nome do apresentador de TV que é um legume?","answer":"Cenoura Abravanel"
+    },
+    {"question":"Qual o titã que afundou em sua trajetória?","answer":"O Titanic."
+    },
+    {"question":"Aonde os caracóis vão para se drogar?","answer":"Na caracolândia"
+    },
+    {"question":"O que o ET diz quando finalmente chega na terra?","answer":"UFO!"
+    },
+    {"question":"Qual é o torresmo que nunca está de bem com a vida?","answer":"O Torresmungando"
+    },
+    {"question":"Qual o cantor brasileiro que adora uma secretária eletrônica?","answer":"Paulo Recado"
+    },
+    {"question":"Qual o humorista que usa arma para fazer faxina?","answer":"Tiro limpa"
+    },
+    {"question":"Qual a cantora que teve o destino dos gatos?","answer":"Alanis Morre sete."
+    },
+    {"question":"Qual o músico que pronuncia melhor as palavras?","answer":"Bruce Dicção"
+    },
+    {"question":"Qual o lugar do RJ que só tem égua pequena?","answer":"Favela da Horsinha."
+    },
+    {"question":"Como o dentista chama sua secretária?","answer":"Ah, tem dente"
+    },
+    {"question":"Qual o mágico que só manda nudes de uma única pose?","answer":"O David Cu perfil."
+    },
+    {"question":"Qual a mulher casada que só aparece quando a luz está acessa?","answer":"A marisposa."
+    },
+    {"question":"Qual cidade em São Paulo fica puta quando alguma coisa acaba?","answer":"Pira se acaba"
+    },
+    {"question":"O que o pássaro disse quando nasceu e viu esse mundo cruel?","answer":"Estou chocado!"
+    },
+    {"question":"Qual o médico que nunca está online?","answer":"O Off talmologista."
+    },
+    {"question":"Qual a melhor homenagem para o cara que inventou o sutiã?","answer":"Merece um busto."
+    },
+    {"question":"Qual o estado americano é uma farpa?","answer":"Alasca"
     }
 ]
